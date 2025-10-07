@@ -1,7 +1,7 @@
 # 🧠 AI Summarizer App (FastAPI + React)
 
 A simple AI-powered Question Generator built with **FastAPI** (backend) and **React** (frontend).  
-Uses **OpenRouter API** for generating concise text summaries.
+Uses **OpenRouter API** for generating questions from text.
 
 ### 🚀 Features
 - Generate questions from given text (easy, medium and hard).
